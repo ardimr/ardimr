@@ -2,15 +2,15 @@
 
 ## About Me
 
-- 🧑‍💻 Software engineer with 2 years of experience.
+- 🧑‍💻 Software engineer with 3 years of experience.
 - 🧠 I love crafting solutions that enable machines to see and understand the world.
 - 🌟 Always eager to learn and explore new technologies.
-- 💼 Currently working at CAD-IT Consultants (ASIA) as a Computer Vision Engineer.
+- 💼 Currently working at Samsung Research & Development Institute Indonesia as Software Engineer.
 - 🎓 Graduated with a degree in Electrical Engineering from Bandung Institure of Technology.
 
 ## Skills
 
-- **Web Development:** HTML5, CSS, Typescript, React, Golang, Python
+- **Web Development:** HTML5, CSS, Typescript, React, Golang, Python, Java
 - **Database:** MongoDB, PostgreSQL, Redis
 - **API Development:** RESTful, gRPC
 - **Computer Vision:** OpenCV, PyTorch, Image Processing
