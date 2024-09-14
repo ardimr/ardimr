@@ -3,7 +3,6 @@
 ## About Me
 
 - 🧑‍💻 Software engineer with 3 years of experience.
-- 🧠 I love crafting solutions that enable machines to see and understand the world.
 - 🌟 Always eager to learn and explore new technologies.
 - 💼 Currently working at Samsung Research & Development Institute Indonesia as Software Engineer.
 - 🎓 Graduated with a degree in Electrical Engineering from Bandung Institure of Technology.
