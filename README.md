@@ -1,4 +1,4 @@
-👋 Hello!  I'm Ardi, a passionate software engineer with a strong focus on backend development and a deep fascination for computer vision technologies.. I thrive on turning innovative ideas into functional and user-friendly software solutions. My goal is to make a positive impact on the world through technology.
+👋 Hello!  I'm Ardi, a  software engineer with a focus on backend development and infrastructure. I thrive on turning innovative ideas into functional and user-friendly software solutions. My goal is to make a positive impact on the world through technology.
 
 ## About Me
 
@@ -14,9 +14,11 @@
 - **API Development:** RESTful, gRPC
 - **Computer Vision:** OpenCV, PyTorch, Image Processing
 - **Version Control:** Git
-- **DevOps:** Docker, CI/CD pipelines
+- **DevOps:** Docker, CI/CD pipelines, Kubernetes
+- **Cloud Infra:** AWS, GCP
 
 ## Contact Me
 
 - 📧 Email: rizkyardimaulana@gmail.com
 - 💬 LinkedIn: https://www.linkedin.com/in/ardimr
+- 💼 Portfolio: https://ardimr.site
