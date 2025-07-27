@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🧑‍💻 Software engineer with 3 years of experience.
+- 🧑‍💻 Software engineer with 4 years of experience.
 - 🌟 Always eager to learn and explore new technologies.
 - 💼 Currently working at Samsung Research & Development Institute Indonesia as Software Engineer.
 - 🎓 Graduated with a degree in Electrical Engineering from Bandung Institure of Technology.
@@ -14,7 +14,7 @@
 - **API Development:** RESTful, gRPC
 - **Computer Vision:** OpenCV, PyTorch, Image Processing
 - **Version Control:** Git
-- **DevOps:** Docker, CI/CD pipelines, Kubernetes
+- **DevOps:** Docker, CI/CD pipelines, Kubernetes, Terraform
 - **Cloud Infra:** AWS, GCP
 
 ## Contact Me
